@@ -9,3 +9,4 @@ class componentsClassMainPage extends commonComponentsClass {
     }
 
 }
+?>
