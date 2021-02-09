@@ -1,0 +1,291 @@
+body{
+    padding: 3%;
+    text-align: center;
+    background: url("greyzz.png"); /*(from http://subtlepatterns.com/) */
+}
+
+footer{
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    background-color: #F5F3E0;
+    font-weight: bolder;
+}
+
+header{
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    background-color: #F5F3E0;
+    font-weight: bold;
+}
+
+.main-page-unloged{
+    width: 100%;
+    height: 40%;
+    text-align: center;
+    background-color: white;
+}
+
+.main-page-loged{
+    width: 100%;
+    height: 60%;
+    text-align: center;
+    background-color: white;
+}
+
+.form-group{
+    padding: 3%;
+}
+
+.form-control{
+    margin: auto;
+}
+
+.text-field{
+    width: 30%;
+}
+
+#login{
+    width: 30%;
+}
+
+#pass{
+    width: 30%;
+}
+
+#new-device-room{
+    width: 30%;
+}
+
+#new-device-wardrobe{
+    width: 30%;
+}
+
+#new-device-u{
+    width: 20%;
+}
+
+#new-device-model{
+    width: 30%;
+}
+
+#new-device-signature{
+    width: 30%;
+}
+
+#new-device-ip{
+    width: 30%;
+}
+
+#edit-device-room{
+    width: 30%;
+}
+
+#edit-device-wardrobe{
+    width: 30%;
+}
+
+#edit-device-u{
+    width: 20%;
+}
+
+#edit-device-model{
+    width: 50%;
+}
+
+#edit-device-signature{
+    width: 30%;
+}
+
+#edit-device-ip{
+    width: 30%;
+}
+
+#edit-building{
+    width: 15%;
+}
+
+#add-building{
+    width: 15%;
+}
+
+/**********************************************/
+/*add whole patch*/
+/*********************************************/
+#new-company {
+    width: 30%;
+}
+
+#new-product {
+    width: 30%;
+}
+
+#new-building-1 {
+    width: 15%;
+}
+
+#new-room-1 {
+    width: 30%;
+}
+
+#new-wardrobe-1 {
+    width: 30%;
+}
+
+#new-u-1 {
+    width: 20%;
+}
+
+#new-model-1 {
+    width: 50%;
+}
+
+#new-signature-1 {
+    width: 30%;
+}
+
+#new-ip-1 {
+    width: 30%;
+}
+
+#new-port-1 {
+    width: 30%;
+}
+
+#new-building-2 {
+    width: 15%;
+}
+
+#new-room-2 {
+    width: 30%;
+}
+
+#new-wardrobe-2 {
+    width: 30%;
+}
+
+#new-u-2 {
+    width: 20%;
+}
+
+#new-model-2 {
+    width: 50%;
+}
+
+#new-signature-2 {
+    width: 30%;
+}
+
+#new-ip-2 {
+    width: 30%;
+}
+
+#new-port-2 {
+    width: 30%;
+}
+
+#new-vlan {
+    width: 30%;
+}
+
+#new-patchcord {
+    width: 40%;
+}
+
+#new-client-socket-no {
+    width: 30%;
+}
+
+#new-client-room-no {
+    width: 30%;
+}
+
+#new-acl {
+    width: 20%;
+}
+
+#new-description {
+    width: 60%;
+}
+
+#new-action {
+    width: 60%;
+}
+
+
+/*******************************************************************/
+
+.navbar {
+    cursor: pointer;
+}
+
+table table-striped {
+    text-align: center;
+}
+
+.lognote {
+    text-decoration: underline;
+}
+
+#id-edit {
+    width: 8%;
+}
+
+/****************************************************************************/
+/*menu - styles */
+#nav {
+    padding: 0%;
+    text-decoration: none;
+}
+        
+#nav_wraper {
+    width: 100%;
+    margin: 0 auto;     
+}
+        
+#nav ul{
+    list-style-type: none;
+    position: relative;
+}
+        
+#nav ul li {
+    display: inline-block;
+}
+        
+#nav ul li:hover {
+    cursor: pointer;
+}
+        
+#nav ul li a,visited {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+        
+#nav ul li a:hover{
+    text-decoration: none;
+}
+        
+#nav ul li:hover ul {
+    display: block;
+}
+        
+#nav ul ul {
+    display: none;
+    position: absolute;
+}
+        
+#nav ul ul li {
+    display: block;
+}
+/**********************************************************************/
+
+a {
+    cursor: pointer;
+    background-color: #000;
+}
+
+a, visited {
+    background-color: #000;
+}
